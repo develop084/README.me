@@ -1,4 +1,4 @@
-# README.me
+# README.md
 
 <h1 align="center">Hi 👋, I'm Dev Patidar</h1>
 <h3 align="center">A passionate frontend developer from India Willing to learn something new everyday.</h3>
